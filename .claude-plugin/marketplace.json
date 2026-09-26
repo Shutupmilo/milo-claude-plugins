@@ -1,0 +1,15 @@
+{
+  "name": "milo-plugins",
+  "owner": { "name": "Fire Lord Milo" },
+  "description": "Fire Lord Milo's personal list of community plugins that don't ship their own marketplace file.",
+  "plugins": [
+    {
+      "name": "skill-seekers",
+      "description": "Turns docs sites, GitHub repos, PDFs and more into Claude Skills (MCP server, 35 tools).",
+      "source": {
+        "source": "github",
+        "repo": "yusufkaraaslan/skill-seekers-plugin"
+      }
+    }
+  ]
+}
